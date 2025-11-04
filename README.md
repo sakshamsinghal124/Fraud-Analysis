@@ -1,4 +1,4 @@
-# Fraud-Detection
+# Fraud-Analysis
 ## Overview
 This project analyzes simulated banking transactions to detect fraudulent activities. Using the **PaySim dataset**, I designed a **MySQL-based analytical workflow** to explore transaction patterns, identify high-risk accounts, and generate actionable insights for fraud detection.
 
