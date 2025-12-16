@@ -1,6 +1,6 @@
 # Fraud-Analysis
 ## Overview
-This project analyzes simulated banking transactions to detect fraudulent activities. Using the **PaySim dataset**, I designed a **MySQL-based analytical workflow** to explore transaction patterns, identify high-risk accounts, and generate actionable insights for fraud detection.
+This project analyzes simulated banking transactions to analyse fraudulent activities. Using the **PaySim dataset**, I designed a **MySQL-based analytical workflow** to explore transaction patterns, identify high-risk accounts, and generate actionable insights for fraud analysis.
 
 ## Dataset
 - **Source:** [PaySim Dataset on Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)  
